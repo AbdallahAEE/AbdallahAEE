@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Al-Bashir
+# 👋 Hi, I'm Abdallah Al-Bashir
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;App+Development+Enthusiast;Data+Analysis+%26+AI+Specialist;Full+Stack+Developer" alt="Typing SVG" />
